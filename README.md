@@ -1,5 +1,5 @@
 # Presidents' Verbosities
-An look into the State of the Union addresses of Barack Obama in 2010 and Donald Trump in 2018 using visualization and NLP techniques.
+A look into the State of the Union addresses of Barack Obama in 2010 and Donald Trump in 2018 using visualization and NLP techniques.
 
 Text sources:
   - http://www.cnn.com/2010/POLITICS/01/27/sotu.transcript/index.html
